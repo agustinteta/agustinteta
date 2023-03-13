@@ -27,7 +27,13 @@ This project was developed with Java and MySQL, is simple general-purpose applic
 
 ### My repository stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinteta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinteta&theme=city_lights&show_icons=true)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinteta&show_icons=true&locale=en&layout=compact" alt="agustinteta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinteta&show_icons=true&locale=en" alt="agustinteta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinteta&" alt="agustinteta" /></p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-agustin--teta-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/agustinteta/)](https://www.linkedin.com/in/agustinteta)
 
