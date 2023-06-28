@@ -9,10 +9,10 @@ I consider myself a responsible person, wanting to work as a team and learn new 
 [Artificial Intelligence - Fuzzy System Inference](https://github.com/agustinteta/IA-FISMamdani)  
 This project was developed with python, scikit, pandas and matplotlib, applicationing the fundamentals of artificial intelligence.
 
-[Programming 3 - Turn Manager](https://github.com/agustinteta/AppTurnos)  
+[Java app - Turn Manager](https://github.com/agustinteta/AppTurnos)  
 This project was developed with Java and MySQL, is simple general-purpose application for managing turns.
 
-[Sales system](https://github.com/agustinteta/sistema-de-ventas)
+[Java app - Sales system](https://github.com/agustinteta/sistema-de-ventas)  
 This project was developed with Java, JPA and Relational Data Base MySQL on Cloud. MVC design pattern was applied and integrates libraries to generate PDF and encrypt passwords.
 The application has different modules, such as CRUD of suppliers, CRUD of sales orders, CRUD of products, User management, User login and registration, Assignment of sales points and customer management.
 
