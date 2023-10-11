@@ -1,7 +1,7 @@
 # Hi there! I'm @AgustinTeta
 
 ## About me
-Actually i'm a computer science engineering student from Argentina and currently i'm working as freelance fullstack developer.
+Actually i'm a computer science engineering student from Argentina and currently i'm working as python developer.
 I consider myself a responsible person, wanting to work as a team and learn new technologies.
 
 ### University Projects
