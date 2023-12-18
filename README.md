@@ -16,7 +16,7 @@ This project was developed with Java and MySQL, is simple general-purpose applic
 This project was developed with Java, JPA and Relational Data Base MySQL on Cloud. MVC design pattern was applied and integrates libraries to generate PDF and encrypt passwords.
 The application has different modules, such as CRUD of suppliers, CRUD of sales orders, CRUD of products, User management, User login and registration, Assignment of sales points and customer management.
 
-[Visual programming and interfaces - Supplier system](https://github.com/agustinteta/sistema-de-proveedores)
+[Visual programming and interfaces - Supplier system](https://github.com/agustinteta/sistema-de-proveedores)  
 The project was developed in NodeJS with a MongoDB non-relational database in the cloud through Mongodb Atlas. 
 The MVC design pattern was also applied to separate models, views, and controllers. In this way we have an orderly and maintainable project structure when it comes to scaling functionalities.
 The application has different modules, such as CRUD for suppliers, CRUD of sales orders, Middlewares.
