@@ -1,41 +1,104 @@
-# Hi there! I'm @AgustinTeta
+<h1 align="center">Hi there! I'm Agustín Teta 👋</h1>
+<p align="center"><b>Software Developer · Computer Science Engineering · Applied AI & LLMs</b></p>
 
-## About me
-Actually i'm a computer science engineering student from Argentina and currently i'm working as python developer.
-I consider myself a responsible person, wanting to work as a team and learn new technologies.
+<p align="center">
+  <a href="https://www.linkedin.com/in/agustinteta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-agustinteta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gustavo.a.teta@gmail.com"><img src="https://img.shields.io/badge/Email-gustavo.a.teta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-### University Projects
+## 🧠 About me
 
-[Artificial Intelligence - Fuzzy System Inference](https://github.com/agustinteta/IA-FISMamdani)  
-This project was developed with python, scikit, pandas and matplotlib, applicationing the fundamentals of artificial intelligence.
+I'm a Computer Science Engineering student from Argentina working as a Python developer.
+My main focus is **Artificial Intelligence applied to real products**: integrating LLMs, building
+conversational agents, and measuring how well they actually perform.
+I enjoy working in teams, writing maintainable code, and learning new technologies.
 
-[Programming 3 - Turn Manager](https://github.com/agustinteta/AppTurnos)  
-This project was developed with Java and MySQL, is simple general-purpose application for managing turns.
+## 🥭 Featured project — Mango (final thesis project)
 
-[Programming 3 - Sales system](https://github.com/agustinteta/sistema-de-ventas)  
-This project was developed with Java, JPA and Relational Data Base MySQL on Cloud. MVC design pattern was applied and integrates libraries to generate PDF and encrypt passwords.
-The application has different modules, such as CRUD of suppliers, CRUD of sales orders, CRUD of products, User management, User login and registration, Assignment of sales points and customer management.
+**Mango** is a personal finance app that uses AI to automate expense capture, categorization and
+analysis. Instead of just showing charts, it includes a **conversational financial agent** that
+answers questions in natural language, spots spending trends and suggests saving strategies.
 
-[Visual programming and interfaces - Supplier system](https://github.com/agustinteta/sistema-de-proveedores)  
-The project was developed in NodeJS with a MongoDB non-relational database in the cloud through Mongodb Atlas. 
-The MVC design pattern was also applied to separate models, views, and controllers. In this way we have an orderly and maintainable project structure when it comes to scaling functionalities.
-The application has different modules, such as CRUD for suppliers, CRUD of sales orders, Middlewares.
+**How expenses get in:**
 
-### 👨‍💻 Technologies and Tools
+| Mode | How it works |
+|---|---|
+| 📷 **Receipt photo (OCR)** | OpenCV/Pillow preprocessing (orientation, lighting, blur) → Tesseract OCR → amount, date and merchant extraction. Supports iPhone `.heic` photos. |
+| 🎙️ **Voice** | Browser recording → OpenAI `gpt-4o-mini-transcribe` with a domain prompt → entity extraction with an LLM. |
+| ✍️ **Free text (NLP)** | *"I spent $1500 at the supermarket"* → structured expense via LLM. |
+| 🏷️ **Auto-categorization** | Two layers: user rules first, LLM as fallback. |
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**AI highlights**
 
-<br>
-<br>
+- 🤖 **Conversational agent** built with **LangChain 1.x / LangGraph** (`create_agent`), with 6 query tools over the user's data, custom middlewares (global deadline, tool tracking) and chat history persisted in PostgreSQL.
+- 📊 **Evaluation harnesses** for every AI component (OCR, speech-to-text, text extraction, voice → expense end to end, categorization) using real annotated data, plus cost per run.
+- 🔌 **Provider-agnostic design**: LLM provider, model and reasoning effort are configurable, and the OCR engine is pluggable (Tesseract / RapidOCR).
 
-### My repository stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinteta&show_icons=true&locale=en&layout=compact" alt="agustinteta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinteta&show_icons=true&locale=en" alt="agustinteta" /></p>
+**Tech stack**
 
-[![Linkedin Badge](https://img.shields.io/badge/-agustin--teta-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/agustinteta/)](https://www.linkedin.com/in/agustinteta)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-3A7BD5?style=flat-square" alt="Tesseract OCR"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
+</p>
 
+- **Backend:** FastAPI · SQLAlchemy 2 · Alembic · PostgreSQL · JWT auth (PyJWT + Argon2id)
+- **AI:** OpenAI (LLM + speech-to-text) · LangChain / LangGraph · Tesseract OCR · OpenCV · Pillow
+- **Frontend:** React · Vite
+- **DevOps & quality:** Docker Compose · pytest with coverage · Git-Flow
+
+> 🔒 The repository is private for now — happy to show it or give a demo on request.
+
+## 🎓 Other AI & university projects
+
+- **[Fuzzy Inference System (Mamdani)](https://github.com/agustinteta/IA-FISMamdani)** — *Artificial Intelligence course.* Fuzzy logic inference system in Python with scikit-learn, pandas and matplotlib.
+- **[Virus simulator](https://github.com/agustinteta/virus-simulator)** — Agent-based model in Python with [Mesa](https://mesa.readthedocs.io/) that simulates how a virus spreads across university spaces (classroom, cafeteria, auditorium), with real-time visualization.
+- **[Sales system](https://github.com/agustinteta/sistema-de-ventas)** — *Programming 3.* Java + JPA + MySQL on the cloud, MVC. Suppliers, products, sales orders, customers, users with encrypted passwords, sales points and PDF generation.
+- **[Supplier system](https://github.com/agustinteta/sistema-de-proveedores)** — *Visual Programming & Interfaces.* Node.js + MongoDB Atlas + Bootstrap, MVC with middlewares.
+- **[Turn manager](https://github.com/agustinteta/AppTurnos)** — *Programming 3.* General-purpose appointment manager in Java + MySQL.
+
+## 👨‍💻 Technologies and tools
+
+**AI & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+</p>
+
+**Languages, frameworks & tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,java,js,react,nodejs,html,css,bootstrap&perline=11" alt="Languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,heroku&perline=11" alt="Databases and tools"/>
+</p>
+
+## 📈 GitHub stats
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agustinteta&theme=github" alt="Profile details" width="100%"/>
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agustinteta&theme=github" alt="Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agustinteta&theme=github" alt="Most commit language" width="49%"/>
+</p>
 
 <!---
 agustinteta/agustinteta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
