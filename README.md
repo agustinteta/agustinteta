@@ -1,17 +1,26 @@
 <h1 align="center">Hi there! I'm Agustín Teta 👋</h1>
-<p align="center"><b>Software Developer · Computer Science Engineering · Applied AI & LLMs</b></p>
+<p align="center"><b>Informatics Engineering student · Python Backend Developer · Applied AI & LLMs</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agustinteta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-agustinteta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gustavo.a.teta@gmail.com"><img src="https://img.shields.io/badge/Email-gustavo.a.teta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:agustinteta@hotmail.com"><img src="https://img.shields.io/badge/Email-agustinteta%40hotmail.com-0078D4?style=for-the-badge" alt="Email"/></a>
 </p>
 
 ## 🧠 About me
 
-I'm a Computer Science Engineering student from Argentina working as a Python developer.
-My main focus is **Artificial Intelligence applied to real products**: integrating LLMs, building
-conversational agents, and measuring how well they actually perform.
-I enjoy working in teams, writing maintainable code, and learning new technologies.
+I'm an **Informatics Engineering student** at Universidad Atlántida Argentina with **5+ years of
+professional experience as a backend developer**. My career has grown alongside my degree: I started
+building Django and Flask apps as a junior developer while studying, and today I design and maintain
+**FastAPI microservices** in production.
+
+The two paths meet in **Artificial Intelligence applied to real products**. My final thesis project,
+Mango, brings what I do every day at work (APIs, databases, Docker) together with LLMs,
+conversational agents, and evaluating how well they actually perform.
+
+- 💼 Currently: **Python Developer at Invera**, backend team (FastAPI, PostgreSQL, Redis, Celery, AWS)
+- 🎓 Finishing: **Informatics Engineering**, final thesis project in progress
+- 🤖 Focus: LLM integration, AI agents, OCR and speech-to-text pipelines
+- 🤝 Used to agile, multidisciplinary teams, technical decision-making and sprint planning
 
 ## 🥭 Featured project — Mango (final thesis project)
 
@@ -59,6 +68,16 @@ answers questions in natural language, spots spending trends and suggests saving
 
 > 🔒 The repository is private for now — happy to show it or give a demo on request.
 
+## 🧭 Journey
+
+| Period | 💼 Work | 🎓 University |
+|---|---|---|
+| **2025 – today** | **Python Developer · Invera** — FastAPI microservices and REST APIs; async jobs with Celery and Redis; AWS. | **Informatics Engineering** (expected 2026) — final thesis project: Mango, an AI-powered finance app. |
+| **2023 – 2025** | **Python Developer · Dowl** — backend solutions with Django and FastAPI, documented REST APIs (Swagger, API contracts), technical decisions and sprint planning, production maintenance. | Advanced Informatics Engineering coursework. |
+| **2022 – 2023** | **RPA Developer · Enta Consulting** — Blue Prism automations, operations and maintenance for an oil & gas client. | **University Technician in Computer Systems** (2018 – 2024). |
+| **2021 – 2023** | **Python Developer Jr · Dowl** — Django and Flask apps, APIs and database optimization, Git and CI/CD in agile teams. | Artificial Intelligence (fuzzy inference systems) and programming courses: Java + MySQL and Node.js + MongoDB systems (see projects below). |
+| **2018** | | Started Informatics Engineering at Universidad Atlántida Argentina. |
+
 ## 🎓 Other AI & university projects
 
 - **[Fuzzy Inference System (Mamdani)](https://github.com/agustinteta/IA-FISMamdani)** — *Artificial Intelligence course.* Fuzzy logic inference system in Python with scikit-learn, pandas and matplotlib.
@@ -86,7 +105,7 @@ answers questions in natural language, spots spending trends and suggests saving
 <p>
   <img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,java,js,react,nodejs,html,css,bootstrap&perline=11" alt="Languages and frameworks"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,heroku&perline=11" alt="Databases and tools"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,azure,git,github,githubactions&perline=11" alt="Databases and tools"/>
 </p>
 
 ## 📈 GitHub stats
